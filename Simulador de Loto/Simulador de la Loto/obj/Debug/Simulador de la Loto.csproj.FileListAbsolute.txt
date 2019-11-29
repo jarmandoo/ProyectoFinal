@@ -1,0 +1,60 @@
+C:\Documents and Settings\cbautista.LOJACK\Escritorio\Simulador de la Loto\Simulador de la Loto\bin\Debug\Simulado de la Loto.exe
+C:\Documents and Settings\cbautista.LOJACK\Escritorio\Simulador de la Loto\Simulador de la Loto\bin\Debug\Simulado de la Loto.pdb
+C:\Documents and Settings\cbautista.LOJACK\Escritorio\Simulador de la Loto\Simulador de la Loto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cbautista.LOJACK\Escritorio\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmLoading.resources
+C:\Documents and Settings\cbautista.LOJACK\Escritorio\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmPantalla.resources
+C:\Documents and Settings\cbautista.LOJACK\Escritorio\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.Properties.Resources.resources
+C:\Documents and Settings\cbautista.LOJACK\Escritorio\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.csproj.GenerateResource.Cache
+C:\Documents and Settings\cbautista.LOJACK\Escritorio\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulado de la Loto.exe
+C:\Documents and Settings\cbautista.LOJACK\Escritorio\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulado de la Loto.pdb
+C:\Users\adminitrador\Desktop\Simulador de la Loto\Simulador de la Loto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adminitrador\Desktop\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmLoading.resources
+C:\Users\adminitrador\Desktop\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmPantalla.resources
+C:\Users\adminitrador\Desktop\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.Properties.Resources.resources
+C:\Users\adminitrador\Desktop\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.csproj.GenerateResource.Cache
+C:\Users\adminitrador\Desktop\Simulador de la Loto\Simulador de la Loto\bin\Debug\Simulador de la Loto.exe
+C:\Users\adminitrador\Desktop\Simulador de la Loto\Simulador de la Loto\bin\Debug\Simulador de la Loto.pdb
+C:\Users\adminitrador\Desktop\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.exe
+C:\Users\adminitrador\Desktop\Simulador de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.pdb
+C:\Users\adminitrador\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.exe
+C:\Users\adminitrador\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.pdb
+C:\Users\Jonathan C. Bautista\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.exe
+C:\Users\Jonathan C. Bautista\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.pdb
+G:\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.exe
+G:\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.pdb
+G:\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\bin\Debug\Simulador de la Loto.exe
+G:\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\bin\Debug\Simulador de la Loto.pdb
+G:\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmLoading.resources
+G:\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmPantalla.resources
+G:\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.Properties.Resources.resources
+G:\Documents\My Proyecto\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.csproj.GenerateResource.Cache
+C:\Users\DeLL\Desktop\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.exe
+C:\Users\DeLL\Desktop\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.pdb
+C:\Users\DeLL\Desktop\Simulado de la Loto\Simulador de la Loto\bin\Debug\Simulador de la Loto.exe
+C:\Users\DeLL\Desktop\Simulado de la Loto\Simulador de la Loto\bin\Debug\Simulador de la Loto.pdb
+C:\Users\DeLL\Desktop\Simulado de la Loto\Simulador de la Loto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DeLL\Desktop\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmLoading.resources
+C:\Users\DeLL\Desktop\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmPantalla.resources
+C:\Users\DeLL\Desktop\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.Properties.Resources.resources
+C:\Users\DeLL\Desktop\Simulado de la Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.csproj.GenerateResource.Cache
+C:\Users\DeLL\Desktop\Simulado de la Loto - copia\Simulador de la Loto\obj\Debug\Simulador de la Loto.exe
+C:\Users\DeLL\Desktop\Simulado de la Loto - copia\Simulador de la Loto\obj\Debug\Simulador de la Loto.pdb
+C:\Users\DeLL\Desktop\Simulado de la Loto - copia\Simulador de la Loto\bin\Debug\Simulador de la Loto.exe
+C:\Users\DeLL\Desktop\Simulado de la Loto - copia\Simulador de la Loto\bin\Debug\Simulador de la Loto.pdb
+C:\Users\DeLL\Desktop\Simulado de la Loto - copia\Simulador de la Loto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DeLL\Desktop\Simulado de la Loto - copia\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmLoading.resources
+C:\Users\DeLL\Desktop\Simulado de la Loto - copia\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmPantalla.resources
+C:\Users\DeLL\Desktop\Simulado de la Loto - copia\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.Properties.Resources.resources
+C:\Users\DeLL\Desktop\Simulado de la Loto - copia\Simulador de la Loto\obj\Debug\Simulador de la Loto.csproj.GenerateResource.Cache
+C:\Users\DeLL\Desktop\Simulador de Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.exe
+C:\Users\DeLL\Desktop\Simulador de Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.pdb
+C:\Users\DeLL\Desktop\Simulador de Loto\Simulador de la Loto\bin\Debug\Simulador de la Loto.exe
+C:\Users\DeLL\Desktop\Simulador de Loto\Simulador de la Loto\bin\Debug\Simulador de la Loto.pdb
+C:\Users\DeLL\Desktop\Simulador de Loto\Simulador de la Loto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DeLL\Desktop\Simulador de Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmLoading.resources
+C:\Users\DeLL\Desktop\Simulador de Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.frmPantalla.resources
+C:\Users\DeLL\Desktop\Simulador de Loto\Simulador de la Loto\obj\Debug\Simulado_de_la_Loto.Properties.Resources.resources
+C:\Users\DeLL\Desktop\Simulador de Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.csproj.GenerateResource.Cache
+C:\Users\DeLL\Desktop\ProyectoFinal\Simulador de Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.exe
+C:\Users\DeLL\Desktop\ProyectoFinal\Simulador de Loto\Simulador de la Loto\obj\Debug\Simulador de la Loto.pdb
